@@ -11,6 +11,10 @@ Mexican food.
 
  
 Xinwen Shi (Evan).
+<<<<<<< HEAD
 Apple
 SUPREME LEADER
 Papaya
+=======
+Apple.
+>>>>>>> parent of df8cd54... change 2
