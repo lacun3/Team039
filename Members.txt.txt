@@ -1,19 +1,7 @@
 LIST OF MEMBERS FOR TEAM 039
  
 Anil Tyndall
-
-
-Tomatosoup
-
 Pineapple.
-
-
-
-potato pasta
-
-
-haoyi is my slave
-
  
 Haoyi
 Mango without a surname.
@@ -21,19 +9,9 @@ Mango without a surname.
 Lachlan Cunningham
 Watermelon.
  
-<<<<<<< HEAD
-Xinwen Shi (Evan)
-
-
-Apple.
-
-
-Apple.
-
-=======
 Xinwen Shi (Evan).
 Apple
 
 SUPREME LEADER
 Papaya
->>>>>>> parent of 2fff7a3... sfafas
+
