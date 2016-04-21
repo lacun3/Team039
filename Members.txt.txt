@@ -1,8 +1,12 @@
 LIST OF MEMBERS FOR TEAM 039
  
 Anil Tyndall
+<<<<<<< HEAD
 Tomatosoup
-
+=======
+haoyi is my slave
+>>>>>>> origin/master
+ 
 Haoyi
 Mango without a surname.
  
