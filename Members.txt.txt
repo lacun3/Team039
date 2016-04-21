@@ -19,8 +19,9 @@ Haoyi
 Mango without a surname.
  
 Lachlan Cunningham
-Mexican food.
+Watermelon.
  
+<<<<<<< HEAD
 Xinwen Shi (Evan)
 
 
@@ -29,3 +30,10 @@ Apple.
 
 Apple.
 
+=======
+Xinwen Shi (Evan).
+Apple
+
+SUPREME LEADER
+Papaya
+>>>>>>> parent of 2fff7a3... sfafas
